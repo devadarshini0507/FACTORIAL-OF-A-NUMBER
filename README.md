@@ -64,20 +64,13 @@ END
 
 **Output:**  
 
-<br>
-<br>
-<br>
+<img width="1339" height="756" alt="Screenshot 2025-11-11 190107" src="https://github.com/user-attachments/assets/b12b0074-a0a1-45fc-991e-bcb5bb94fd9c" />
 
 
 
 **Manual Calculations:**  
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img width="1236" height="766" alt="Screenshot 2025-11-11 190128" src="https://github.com/user-attachments/assets/ed70759d-6d84-4e7b-bdfa-ec2074be162c" />
 
 
 
